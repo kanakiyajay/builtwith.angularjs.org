@@ -2,6 +2,18 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "Bootstrap 3 Grid Builder",
+      "thumb": "bootstrap-grid-builder/thumb.png",
+      "desc": "BootStrap is a single page web app to create new Boostrap 3 Layouts easily using previews on all devices to make responsive websites",
+      "url": "http://jaykanakiya.com/bootstrap-grid-builder/",
+      "info": "https://github.com/kanakiyajay/bootstrap-grid-builder",
+      "submitter": "Jay Kanakiya",
+      "submissionDate" : "2013-09-04",
+      "tags" : [
+        "Production","Productivity","jQuery","Bootstrap","Developer Tool","Local Storage","Responsive","UI Bootstrap","Open Source"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
@@ -1354,7 +1366,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1521,12 +1533,12 @@
       ]
     },
     {
-      "name": "LicensingJS", 
-      "thumb": "licensingjs/thumb.png", 
+      "name": "LicensingJS",
+      "thumb": "licensingjs/thumb.png",
       "desc": "Full crud app that tracks Contractor and Business Licenses using Angular, Breeze, toastr and WebApi, deployed on Azure",
-      "url": "http://licensingjs.azurewebsites.net/", 
-      "info": "http://plus.google.com/u/0/102437918402681897261/", 
-      "submitter": "mgbee8", 
+      "url": "http://licensingjs.azurewebsites.net/",
+      "info": "http://plus.google.com/u/0/102437918402681897261/",
+      "submitter": "mgbee8",
       "submissionDate": "2013-03-22",
       "tags": [
         "Demo",
@@ -1546,8 +1558,8 @@
       "submitter": "nicmarti",
       "submissionDate": "2013-04-12",
       "tags": [
-        "Production", 
-        "Travel", 
+        "Production",
+        "Travel",
         "jQuery",
         "CSS3",
         "PlayFramework",
